@@ -1,0 +1,96 @@
+[
+    {
+      "recipe_image": "https://img.freepik.com/free-photo/top-view-table-full-delicious-food-composition_23-2149141352.jpg",
+      "recipe_id": 1,
+      "recipe_name": "Spaghetti Carbonara",
+      "short_description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+      "ingredients": [
+        "Spaghetti",
+        "Pancetta",
+        "Eggs",
+        "Parmesan cheese",
+        "Black pepper"
+      ],
+      "preparation_time": "20 minutes",
+      "calories": 400
+    },
+    {
+      "recipe_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQPpgLRrL9bKqzsKtMkWR_ggjPlVdWXh0kXQ&s",
+      "recipe_id": 2,
+      "recipe_name": "Chicken Caesar Salad",
+      "short_description": "Crispy romaine lettuce topped with grilled chicken, croutons, Parmesan, and Caesar dressing.",
+      "ingredients": [
+        "Romaine lettuce",
+        "Grilled chicken",
+        "Croutons",
+        "Parmesan cheese",
+        "Caesar dressing"
+      ],
+      "preparation_time": "15 minutes",
+      "calories": 350
+    },
+    {
+      "recipe_image": "https://png.pngtree.com/thumb_back/fh260/background/20230610/pngtree-many-different-kinds-of-dishes-and-foods-image_2951715.jpg",
+      "recipe_id": 3,
+      "recipe_name": "Beef Tacos",
+      "short_description": "Seasoned ground beef served in soft or hard taco shells with fresh toppings.",
+      "ingredients": [
+        "Ground beef",
+        "Taco seasoning",
+        "Taco shells",
+        "Lettuce",
+        "Tomatoes",
+        "Cheddar cheese"
+      ],
+      "preparation_time": "25 minutes",
+      "calories": 500
+    },
+    {
+      "recipe_image": "https://www.shutterstock.com/image-photo/close-tasty-burger-isolated-on-260nw-2494691375.jpg",
+      "recipe_id": 4,
+      "recipe_name": "Vegetable Stir-fry",
+      "short_description": "A quick and healthy stir-fry with a mix of fresh vegetables and soy sauce.",
+      "ingredients": [
+        "Broccoli",
+        "Carrots",
+        "Bell peppers",
+        "Soy sauce",
+        "Garlic",
+        "Ginger"
+      ],
+      "preparation_time": "20 minutes",
+      "calories": 300
+    },
+    {
+      "recipe_image": "https://img.freepik.com/free-photo/fruit-salad-spilling-floor-was-mess-vibrant-colors-textures-generative-ai_8829-2895.jpg",
+      "recipe_id": 5,
+      "recipe_name": "Chocolate Chip Cookies",
+      "short_description": "Soft and chewy cookies filled with delicious chocolate chips.",
+      "ingredients": [
+        "Flour",
+        "Sugar",
+        "Butter",
+        "Eggs",
+        "Chocolate chips",
+        "Vanilla extract"
+      ],
+      "preparation_time": "30 minutes",
+      "calories": 200
+    },
+    {
+      "recipe_image": "https://img.freepik.com/free-photo/chicken-wings-barbecue-sweetly-sour-sauce-picnic-summer-menu-tasty-food-top-view-flat-lay_2829-6471.jpg",
+      "recipe_id": 6,
+      "recipe_name": "Greek Yogurt Parfait",
+      "short_description": "A healthy and refreshing parfait layered with Greek yogurt, honey, granola, and fresh berries.",
+      "ingredients": [
+        "Greek yogurt",
+        "Honey",
+        "Granola",
+        "Strawberries",
+        "Blueberries"
+      ],
+      "preparation_time": "10 minutes",
+      "calories": 150
+    }
+  ]
+  
