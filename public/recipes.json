@@ -11,7 +11,7 @@
         "Parmesan cheese",
         "Black pepper"
       ],
-      "preparation_time": "20 minutes",
+      "preparation_time": 20 ,
       "calories": 400
     },
     {
@@ -26,7 +26,7 @@
         "Parmesan cheese",
         "Caesar dressing"
       ],
-      "preparation_time": "15 minutes",
+      "preparation_time": 15 ,
       "calories": 350
     },
     {
@@ -42,7 +42,7 @@
         "Tomatoes",
         "Cheddar cheese"
       ],
-      "preparation_time": "25 minutes",
+      "preparation_time": 25 ,
       "calories": 500
     },
     {
@@ -58,7 +58,7 @@
         "Garlic",
         "Ginger"
       ],
-      "preparation_time": "20 minutes",
+      "preparation_time": 20 ,
       "calories": 300
     },
     {
@@ -74,7 +74,7 @@
         "Chocolate chips",
         "Vanilla extract"
       ],
-      "preparation_time": "30 minutes",
+      "preparation_time": 30 ,
       "calories": 200
     },
     {
@@ -89,7 +89,7 @@
         "Strawberries",
         "Blueberries"
       ],
-      "preparation_time": "10 minutes",
+      "preparation_time": 10 ,
       "calories": 150
     }
   ]

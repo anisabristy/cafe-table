@@ -8,6 +8,8 @@ import Sidebar from "./components/Sidebar";
 const App = () =>{
   const[recipequeue,setRecipeQueue]=useState([])
   const[preparedRecipe,setPreparedrecipe]=useState([])
+  const[totalTime,setTotalTime]=useState(0)
+  const[totalCalories,setTotalCalories]=useState(0)
 
   const addRecipeToQueue = (recipe) =>{
     const isExist = recipequeue.find(
@@ -29,6 +31,11 @@ const App = () =>{
       setPreparedrecipe([...preparedRecipe,deletedRacipe])
     
   }
+  const calculateTimeandCalories=(time,calories)=>{
+    setTotalTime(totalTime+time)
+    setTotalCalories(totalCalories+calories)
+
+  }
   return (
     <div className="container mx-auto px-20">
       {/* {Header} */}
@@ -41,7 +48,7 @@ const App = () =>{
         {/* Cards sectin */}
         <Recipes addRecipeToQueue = {addRecipeToQueue}></Recipes>
         {/* side bar */}
-        <Sidebar handelRemove={handelRemove} recipequeue ={recipequeue}preparedRecipe={preparedRecipe}></Sidebar>
+        <Sidebar handelRemove={handelRemove} recipequeue ={recipequeue}preparedRecipe={preparedRecipe} calculateTimeandCalories={calculateTimeandCalories} totalTime={totalTime} totalCalories={totalCalories}></Sidebar>
       </section>
     </div>
   )

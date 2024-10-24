@@ -31,7 +31,7 @@ const Recipes = ({addRecipeToQueue}) =>{
                   </ul>
                   <div className="flex gap-5 mt-4">
                     <div className="flex items-center gap-1"><i class="fa-regular fa-clock"></i>
-                    <p className="text-sm">{recipe.preparation_time}</p></div>
+                    <p className="text-sm">{recipe.preparation_time} minites</p></div>
                     <div className="flex items-center gap-1"><i class="fa-solid fa-fire-flame-curved"></i>
                     <p className="text-sm">{recipe.calories} calories</p></div>
                    
